@@ -16,7 +16,6 @@ Pathao challege 2019 is designed to test your wits and intellect. We want to see
 ### Deadline for submission's is 20th February, 2019
 ## Scoring
 - Problem Solution with document - 50
-- Git usage - 30
 - Code quality - 20
 - Bonus 30 if you can implement testing
 
