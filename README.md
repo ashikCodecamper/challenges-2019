@@ -13,7 +13,7 @@ Pathao challenge 2019 is designed to test your wits and intellect. We want to se
     - What are the results to back this up?
 - Maximum team of 2 people.
 - Project to be hosted in GitHub & privately shared with pathao.
-### Deadline for submission's is 20th February, 2019
+### Deadline for submission is 20th February, 2019
 ## Scoring
 - Problem Solution with document - 80
 - Code quality - 20
