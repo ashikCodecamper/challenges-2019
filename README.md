@@ -1,6 +1,6 @@
 # Pathao Challenge 2019
 
-Pathao challege 2019 is designed to test your wits and intellect. We want to see how god you are at tackling our day to day challenges & direct recuitment opportunity for top performers.
+Pathao challenge 2019 is designed to test your wits and intellect. We want to see how good you are at tackling our day to day challenges & it offers direct recruitment opportunity for top performers.
 
 ## Directives
 - Project must be forked from and hosted on GitHub & privately shared with pathao.
