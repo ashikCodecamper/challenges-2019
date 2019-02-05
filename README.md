@@ -3,9 +3,9 @@
 Pathao challenge 2019 is designed to test your wits and intellect. We want to see how good you are at tackling our day to day challenges and how well you guys perform.
 
 ## Directives
-- Project must be forked from and hosted on GitHub & privately shared with pathao.
+- Project must be downloaded/forked (whatever you choose is fine) from this repo and hosted on your own GitHub & privately shared with pathao.
 - Push your code on github with good commits. Your commits will be checked to see your work log. (Google for git best practices if you don't know)
-- A good README.md so it can be run in any machine independently.
+- A good README.md so it can be run on any machine independently.
 - A document explaining the solution approach must be attached.(Hint make it a good read not a long read)
     - Why this is a good solution?
     - How did you come to this solution?
