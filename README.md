@@ -20,5 +20,6 @@ Pathao challenge 2019 is designed to test your wits and intellect. We want to se
 - Bonus 30 if you can implement testing
 
 ### Email: data.info@pathao.com
+### Git Id: data-info-pathao-com
 
 ### © Pathao Inc. 2019
